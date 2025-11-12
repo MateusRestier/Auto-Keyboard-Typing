@@ -24,4 +24,4 @@ for caractere in texto:
     keyboard.write(caractere)  # Simula a digitação de cada caractere
     time.sleep(0.01)  # Pequena pausa entre cada caractere para simular a digitação humana
 
-print("Texto escrito com sucesso!")
+print("Texto escrito com sucesso!!")
